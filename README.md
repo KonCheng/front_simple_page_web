@@ -1,0 +1,2 @@
+# front_simple_page_web
+一个单页面Web端的前端框架
