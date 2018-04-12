@@ -14,3 +14,6 @@ front_simple_page_web项目是一套基于nodejs、webpack、vue全家桶、iVie
 5、**[mock.js](http://mockjs.com/)** 生成随机数据，拦截 Ajax 请求
 
 6、**nginx** 前端服务器
+
+## 教程
+**[教程](https://github.com/KonCheng/front_simple_page_web/wiki)**
